@@ -1,3 +1,8 @@
+# SparkFun Electronics
+# Experiment 4.0
+# Driving an RGB LED
+# Common anode RGB LED
+
 from microbit import *
 from random import randint
 
